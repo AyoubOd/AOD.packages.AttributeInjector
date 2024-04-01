@@ -143,24 +143,24 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "AttributeInjector.Core/1.0.0": {
+      "AOD.packages.AttributeInjector/1.0.1": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "8.0.0"
         },
         "compile": {
-          "bin/placeholder/AttributeInjector.Core.dll": {}
+          "bin/placeholder/AOD.packages.AttributeInjector.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AttributeInjector.Core.dll": {}
+          "bin/placeholder/AOD.packages.AttributeInjector.dll": {}
         }
       },
       "MockApp.Services/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "AttributeInjector.Core": "1.0.0"
+          "AOD.packages.AttributeInjector": "1.0.1"
         },
         "compile": {
           "bin/placeholder/MockApp.Services.dll": {}
@@ -577,7 +577,7 @@
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
-    "AttributeInjector.Core/1.0.0": {
+    "AOD.packages.AttributeInjector/1.0.1": {
       "type": "project",
       "path": "../../../lib/AttributeInjector.Core/AttributeInjector.Core.csproj",
       "msbuildProject": "../../../lib/AttributeInjector.Core/AttributeInjector.Core.csproj"
@@ -590,7 +590,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "AttributeInjector.Core >= 1.0.0",
+      "AOD.packages.AttributeInjector >= 1.0.1",
       "Microsoft.AspNetCore.OpenApi >= 8.0.2",
       "MockApp.Services >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"

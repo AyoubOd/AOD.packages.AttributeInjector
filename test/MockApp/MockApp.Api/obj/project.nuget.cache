@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0ZzS2+r4/x1nUdhuOasY5LhzkpHBbHs/SkOkFHv4JwVGJH6Ycc+mG5tYS0N8zkhgzlm4XTNUBPWvD4N3Tr3ZZg==",
+  "dgSpecHash": "Cq63YrCGOsWb35R5VEfD2qbPLqDk4Uvph8NtkVZITG2LHzBbjZUXivBQxZz+AN/1CV1PJATs9r7oFe+um1+mWA==",
   "success": true,
   "projectFilePath": "C:\\Users\\aoudada\\RiderProjects\\AttributeInjector\\test\\MockApp\\MockApp.Api\\MockApp.Api.csproj",
   "expectedPackageFiles": [
@@ -12,7 +12,8 @@
     "C:\\Users\\aoudada\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\aoudada\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\aoudada\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "C:\\Users\\aoudada\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "C:\\Users\\aoudada\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\aoudada\\.nuget\\packages\\aod.packages.attributeinjector\\1.0.1\\aod.packages.attributeinjector.1.0.1.nupkg.sha512"
   ],
   "logs": []
 }

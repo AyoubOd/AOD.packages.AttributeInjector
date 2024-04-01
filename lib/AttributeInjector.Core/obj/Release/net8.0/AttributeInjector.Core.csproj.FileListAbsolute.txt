@@ -1,0 +1,13 @@
+C:\Users\aoudada\RiderProjects\AttributeInjector\lib\AttributeInjector.Core\bin\Release\net8.0\AttributeInjector.Core.deps.json
+C:\Users\aoudada\RiderProjects\AttributeInjector\lib\AttributeInjector.Core\bin\Release\net8.0\AttributeInjector.Core.dll
+C:\Users\aoudada\RiderProjects\AttributeInjector\lib\AttributeInjector.Core\bin\Release\net8.0\AttributeInjector.Core.pdb
+C:\Users\aoudada\RiderProjects\AttributeInjector\lib\AttributeInjector.Core\obj\Release\net8.0\AttributeInjector.Core.csproj.AssemblyReference.cache
+C:\Users\aoudada\RiderProjects\AttributeInjector\lib\AttributeInjector.Core\obj\Release\net8.0\AttributeInjector.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aoudada\RiderProjects\AttributeInjector\lib\AttributeInjector.Core\obj\Release\net8.0\AttributeInjector.Core.AssemblyInfoInputs.cache
+C:\Users\aoudada\RiderProjects\AttributeInjector\lib\AttributeInjector.Core\obj\Release\net8.0\AttributeInjector.Core.AssemblyInfo.cs
+C:\Users\aoudada\RiderProjects\AttributeInjector\lib\AttributeInjector.Core\obj\Release\net8.0\AttributeInjector.Core.csproj.CoreCompileInputs.cache
+C:\Users\aoudada\RiderProjects\AttributeInjector\lib\AttributeInjector.Core\obj\Release\net8.0\AttributeInjector.Core.sourcelink.json
+C:\Users\aoudada\RiderProjects\AttributeInjector\lib\AttributeInjector.Core\obj\Release\net8.0\AttributeInjector.Core.dll
+C:\Users\aoudada\RiderProjects\AttributeInjector\lib\AttributeInjector.Core\obj\Release\net8.0\refint\AttributeInjector.Core.dll
+C:\Users\aoudada\RiderProjects\AttributeInjector\lib\AttributeInjector.Core\obj\Release\net8.0\AttributeInjector.Core.pdb
+C:\Users\aoudada\RiderProjects\AttributeInjector\lib\AttributeInjector.Core\obj\Release\net8.0\ref\AttributeInjector.Core.dll

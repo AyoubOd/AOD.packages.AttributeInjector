@@ -115,10 +115,10 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "restore": {
       "projectUniqueName": "C:\\Users\\aoudada\\RiderProjects\\AttributeInjector\\lib\\AttributeInjector.Core\\AttributeInjector.Core.csproj",
-      "projectName": "AttributeInjector.Core",
+      "projectName": "AOD.packages.AttributeInjector",
       "projectPath": "C:\\Users\\aoudada\\RiderProjects\\AttributeInjector\\lib\\AttributeInjector.Core\\AttributeInjector.Core.csproj",
       "packagesPath": "C:\\Users\\aoudada\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\aoudada\\RiderProjects\\AttributeInjector\\lib\\AttributeInjector.Core\\obj\\",
@@ -149,6 +149,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AOD.packages.AttributeInjector</id>
+    <version>1.0.2</version>
+    <authors>AOD</authors>
+    <description>Package Description</description>
+    <repository type="git" url="https://github.com/AyoubOd/Aod.packages.AttributeInjector" commit="95de14c8f29e024271ba912fe934370974e7f693" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\aoudada\RiderProjects\AttributeInjector\lib\AttributeInjector.Core\bin\Release\net8.0\AttributeInjector.Core.dll" target="lib\net8.0\AttributeInjector.Core.dll" />
+  </files>
+</package>

@@ -11,7 +11,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("AOD")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+95de14c8f29e024271ba912fe934370974e7f693")]
 [assembly: System.Reflection.AssemblyProductAttribute("AttributeInjector")]

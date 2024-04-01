@@ -5,10 +5,10 @@
   },
   "projects": {
     "C:\\Users\\aoudada\\RiderProjects\\AttributeInjector\\lib\\AttributeInjector.Core\\AttributeInjector.Core.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "restore": {
         "projectUniqueName": "C:\\Users\\aoudada\\RiderProjects\\AttributeInjector\\lib\\AttributeInjector.Core\\AttributeInjector.Core.csproj",
-        "projectName": "AttributeInjector.Core",
+        "projectName": "AOD.packages.AttributeInjector",
         "projectPath": "C:\\Users\\aoudada\\RiderProjects\\AttributeInjector\\lib\\AttributeInjector.Core\\AttributeInjector.Core.csproj",
         "packagesPath": "C:\\Users\\aoudada\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\aoudada\\RiderProjects\\AttributeInjector\\lib\\AttributeInjector.Core\\obj\\",
