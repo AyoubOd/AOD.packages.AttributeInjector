@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T7EOTAY/6OwutYjxVxpfKN0na1im1yu6mdY25lfHZaNGk86lKOlmGf21nQE9aBVaWRhxd2HapDOZaMlRcfxijw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aoudada\\RiderProjects\\AttributeInjector\\lib\\AttributeInjector.Core\\AttributeInjector.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aoudada\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\aoudada\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

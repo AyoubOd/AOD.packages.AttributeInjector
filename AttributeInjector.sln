@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{CDBCE6EC-19BA-417B-8194-3B57B80FB0B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeInjector.Core", "lib\AttributeInjector.Core\AttributeInjector.Core.csproj", "{F52CA151-091C-468C-BBF2-4CC37471E437}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{0EDF20AF-FD13-4FF3-B41F-BB31A9805AAF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MockApp", "MockApp", "{060D0BCA-196B-4840-8FA4-AF85C603A7BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockApp.Api", "test\MockApp\MockApp.Api\MockApp.Api.csproj", "{B48C308D-845B-49D9-9EE0-B42BF1693A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeInjector.Tests", "test\AttributeInjector.Tests\AttributeInjector.Tests.csproj", "{329DE6E6-D8BD-4FFC-9545-8EBCF687808E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockApp.Services", "test\MockApp\MockApp.Services\MockApp.Services.csproj", "{6F402BF1-95E9-4C2F-8D76-AE9E094227EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52CA151-091C-468C-BBF2-4CC37471E437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52CA151-091C-468C-BBF2-4CC37471E437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52CA151-091C-468C-BBF2-4CC37471E437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52CA151-091C-468C-BBF2-4CC37471E437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48C308D-845B-49D9-9EE0-B42BF1693A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48C308D-845B-49D9-9EE0-B42BF1693A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48C308D-845B-49D9-9EE0-B42BF1693A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48C308D-845B-49D9-9EE0-B42BF1693A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329DE6E6-D8BD-4FFC-9545-8EBCF687808E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329DE6E6-D8BD-4FFC-9545-8EBCF687808E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329DE6E6-D8BD-4FFC-9545-8EBCF687808E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329DE6E6-D8BD-4FFC-9545-8EBCF687808E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F402BF1-95E9-4C2F-8D76-AE9E094227EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F402BF1-95E9-4C2F-8D76-AE9E094227EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F402BF1-95E9-4C2F-8D76-AE9E094227EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F402BF1-95E9-4C2F-8D76-AE9E094227EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F52CA151-091C-468C-BBF2-4CC37471E437} = {CDBCE6EC-19BA-417B-8194-3B57B80FB0B9}
+		{060D0BCA-196B-4840-8FA4-AF85C603A7BD} = {0EDF20AF-FD13-4FF3-B41F-BB31A9805AAF}
+		{B48C308D-845B-49D9-9EE0-B42BF1693A81} = {060D0BCA-196B-4840-8FA4-AF85C603A7BD}
+		{329DE6E6-D8BD-4FFC-9545-8EBCF687808E} = {0EDF20AF-FD13-4FF3-B41F-BB31A9805AAF}
+		{6F402BF1-95E9-4C2F-8D76-AE9E094227EA} = {060D0BCA-196B-4840-8FA4-AF85C603A7BD}
+	EndGlobalSection
+EndGlobal

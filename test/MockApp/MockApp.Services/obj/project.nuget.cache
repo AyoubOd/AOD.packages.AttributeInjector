@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IAXZ6w1fEvr9xVpq8M8w7A+SFZZYJZueyysAaF/lcI4HjrUgB3wRhfBYoEAGXDKQrOy+OSKbGReQ8/njf7Im0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aoudada\\RiderProjects\\AttributeInjector\\test\\MockApp\\MockApp.Services\\MockApp.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aoudada\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\aoudada\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

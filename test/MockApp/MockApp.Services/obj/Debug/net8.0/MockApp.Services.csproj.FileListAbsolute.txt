@@ -1,0 +1,15 @@
+C:\Users\aoudada\RiderProjects\AttributeInjector\test\MockApp\MockApp.Services\bin\Debug\net8.0\MockApp.Services.deps.json
+C:\Users\aoudada\RiderProjects\AttributeInjector\test\MockApp\MockApp.Services\bin\Debug\net8.0\MockApp.Services.dll
+C:\Users\aoudada\RiderProjects\AttributeInjector\test\MockApp\MockApp.Services\bin\Debug\net8.0\MockApp.Services.pdb
+C:\Users\aoudada\RiderProjects\AttributeInjector\test\MockApp\MockApp.Services\bin\Debug\net8.0\AttributeInjector.Core.dll
+C:\Users\aoudada\RiderProjects\AttributeInjector\test\MockApp\MockApp.Services\bin\Debug\net8.0\AttributeInjector.Core.pdb
+C:\Users\aoudada\RiderProjects\AttributeInjector\test\MockApp\MockApp.Services\obj\Debug\net8.0\MockApp.Services.csproj.AssemblyReference.cache
+C:\Users\aoudada\RiderProjects\AttributeInjector\test\MockApp\MockApp.Services\obj\Debug\net8.0\MockApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aoudada\RiderProjects\AttributeInjector\test\MockApp\MockApp.Services\obj\Debug\net8.0\MockApp.Services.AssemblyInfoInputs.cache
+C:\Users\aoudada\RiderProjects\AttributeInjector\test\MockApp\MockApp.Services\obj\Debug\net8.0\MockApp.Services.AssemblyInfo.cs
+C:\Users\aoudada\RiderProjects\AttributeInjector\test\MockApp\MockApp.Services\obj\Debug\net8.0\MockApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\aoudada\RiderProjects\AttributeInjector\test\MockApp\MockApp.Services\obj\Debug\net8.0\MockApp..2D9EAA07.Up2Date
+C:\Users\aoudada\RiderProjects\AttributeInjector\test\MockApp\MockApp.Services\obj\Debug\net8.0\MockApp.Services.dll
+C:\Users\aoudada\RiderProjects\AttributeInjector\test\MockApp\MockApp.Services\obj\Debug\net8.0\refint\MockApp.Services.dll
+C:\Users\aoudada\RiderProjects\AttributeInjector\test\MockApp\MockApp.Services\obj\Debug\net8.0\MockApp.Services.pdb
+C:\Users\aoudada\RiderProjects\AttributeInjector\test\MockApp\MockApp.Services\obj\Debug\net8.0\ref\MockApp.Services.dll
